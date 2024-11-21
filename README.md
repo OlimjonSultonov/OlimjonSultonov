@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Olimjon Sultonov
 
-<!--
-**OlimjonSultonov/OlimjonSultonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist and Data Analyst with a strong background in machine learning, data analysis, and visualization. Currently, I'm enhancing my skills and working on various data science projects while pursuing a Bachelor's degree in Cybersecurity and a Data Science Certificate.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming Languages:** Python, SQL, C, C++  
+**Machine Learning & Data Science Tools:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Streamlit  
+**Data Manipulation & Visualization:** Jupyter Notebook, GitHub  
+**Additional Skills:** A/B Testing, K-Means, Random Forest, Decision Tree, XGBoost
+
+## 💬 Let's Connect
+
+Feel free to reach out if you want to discuss data science, machine learning, or any interesting projects! You can connect with me on [LinkedIn](https://www.linkedin.com/in/olimjon-sultonov-59ba82265/).
